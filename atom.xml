@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://liuboo00.github.io/atom.xml" rel="self"/>
   <link href="http://liuboo00.github.io/"/>
-  <updated>2016-10-05T15:10:42+08:00</updated>
+  <updated>2016-10-05T15:37:25+08:00</updated>
   <id>http://liuboo00.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title2]]></title>
+    <link href="http://liuboo00.github.io/blog/2016/10/05/title2/"/>
+    <updated>2016-10-05T15:35:15+08:00</updated>
+    <id>http://liuboo00.github.io/blog/2016/10/05/title2</id>
+    <content type="html"><![CDATA[<p>jkalfsdjflskadj</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://liuboo00.github.io/blog/2016/10/05/title/"/>
+    <updated>2016-10-05T15:34:35+08:00</updated>
+    <id>http://liuboo00.github.io/blog/2016/10/05/title</id>
+    <content type="html"><![CDATA[<p>fasdljflsjflksaj</p>
+]]></content>
+  </entry>
   
 </feed>
